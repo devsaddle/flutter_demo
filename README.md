@@ -1,7 +1,5 @@
 # flutter_demo
 
-A new Flutter project.
-
 因为没有接入接口，feeds流中的数据为假数据。
 
 ## 已完成
@@ -16,3 +14,11 @@ A new Flutter project.
 2. 图片滤镜处理，实现有问题，以及增加滤镜后的图片导出。没有做过，参考的网上资料。
 3. 文字拖拽越界坐标判断，及文字拖动删除。
 4. 相册图片选择，用的第三方，样式与需求有出入，待完善。
+
+
+## 第三方
+* intl 时间处理
+* json_serializable json 解析
+* toast 
+* wechat_assets_picker 相册图片选择
+* get 状态管理
